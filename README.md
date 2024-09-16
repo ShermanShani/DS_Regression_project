@@ -3,8 +3,8 @@
 <body>
     <h1>Practical Data Science - Machine Learning Regression project - Wine dataset from kaggle</h1>
     <h2>About Dataset</h2>
-    <p>This is a subset of wines from around the world.<br>
-    Features:<br>
+    <p>This is a subset of wines from around the world.<br><br>
+    Features:<br><br>
     Title: The name or title of the wine.<br>
     Description: A brief textual description providing additional details about the wine.<br>
     Price: The cost of the wine.<br>
