@@ -5,23 +5,23 @@
     <h2>About Dataset</h2>
     <p>This is a subset of wines from around the world.<br>
     Features:<br>
-    Title: The name or title of the wine.
-    Description: A brief textual description providing additional details about the wine.
-    Price: The cost of the wine.
-    Capacity: The volume or size of the wine bottle.
-    Grape: The primary grape variety used in making the wine.
-    Secondary Grape Varieties: Additional grape varieties used in the wine blend.
-    Closure: The type of closure used for the bottle.
-    Country: The country where the wine is produced.
-    Unit:
-    Characteristics: The "Characteristics" feature encapsulates the unique and discernible flavors and aromas present in a particular wine.
-    Per bottle / case / each: The quantity of wine included per unit (bottle, case, or each) sold.
-    Type: The general category of the wine.
-    ABV: The percentage of alcohol content in the wine.
-    Region: The geographic region where the grapes used to make the wine are grown.
-    Style: This feature describes the overall sensory experience and characteristics of the wine.
-    Vintage: The year the grapes used to make the wine were harvested.
-    Appellation: A legally defined and protected geographical indication used to identify where the grapes for a wine were grown.
+    Title: The name or title of the wine.<br>
+    Description: A brief textual description providing additional details about the wine.<br>
+    Price: The cost of the wine.<br>
+    Capacity: The volume or size of the wine bottle.<br>
+    Grape: The primary grape variety used in making the wine.<br>
+    Secondary Grape Varieties: Additional grape varieties used in the wine blend.<br>
+    Closure: The type of closure used for the bottle.<br>
+    Country: The country where the wine is produced.<br>
+    Unit:<br>
+    Characteristics: The "Characteristics" feature encapsulates the unique and discernible flavors and aromas present in a particular wine.<br>
+    Per bottle / case / each: The quantity of wine included per unit (bottle, case, or each) sold.<br>
+    Type: The general category of the wine.<br>
+    ABV: The percentage of alcohol content in the wine.<br>
+    Region: The geographic region where the grapes used to make the wine are grown.<br>
+    Style: This feature describes the overall sensory experience and characteristics of the wine.<br>
+    Vintage: The year the grapes used to make the wine were harvested.<br>
+    Appellation: A legally defined and protected geographical indication used to identify where the grapes for a wine were grown.<br>
     </p>
     <h2>Resources:</h2>
     <ol>
